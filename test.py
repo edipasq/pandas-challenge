@@ -1,1 +1,1 @@
-print('hello by A1 new my local')
+print('hello by A1 new my local  ')
